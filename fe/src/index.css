@@ -1,0 +1,14 @@
+.header_center {
+  display: flex;
+}
+.header_center p {
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 5px 10px;
+}
+.h_c_icon {
+  background-color: orange;
+  border-radius: 100%;
+  color: #fff;
+  border-radius: 10px;
+}
